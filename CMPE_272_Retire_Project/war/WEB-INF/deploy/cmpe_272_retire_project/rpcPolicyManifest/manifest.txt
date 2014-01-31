@@ -1,0 +1,3 @@
+# Module cmpe_272_retire_project
+# RPC service class, partial path of RPC policy file
+com.BPTR.base.client.GreetingService, BFB1302B10D519C65CBCE8C178C716C7.gwt.rpc

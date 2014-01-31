@@ -1,0 +1,2 @@
+serviceClass: com.BPTR.base.client.GreetingService
+path: BFB1302B10D519C65CBCE8C178C716C7.gwt.rpc
